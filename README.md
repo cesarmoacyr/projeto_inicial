@@ -15,5 +15,3 @@
 2) Elemento 2
 
 [Link para o Google](https://www.google.com)
-
-![Link para imagem](https://ongrace.com/wp-content/uploads/2024/12/destque-campanha-bh-by-divulgacao-iigd.jpg)
